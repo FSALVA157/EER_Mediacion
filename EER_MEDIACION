@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T16:27:33.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rUDOYm5oL7eOQTx9GvZE" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T16:29:24.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="cm-POVl9GdeRUq_RRqZZ" version="20.0.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="622" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1498,6 +1498,26 @@
         <mxCell id="-riYvlgXH_zkho1tijx4-161" value="activo: BOOL - PREDET TRUE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="-riYvlgXH_zkho1tijx4-159">
           <mxGeometry x="30" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-riYvlgXH_zkho1tijx4-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=ERmany;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-riYvlgXH_zkho1tijx4-78" target="-riYvlgXH_zkho1tijx4-144">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="695" as="sourcePoint" />
+            <mxPoint x="1240" y="875" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="805" />
+              <mxPoint x="790" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-riYvlgXH_zkho1tijx4-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=ERmany;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-riYvlgXH_zkho1tijx4-28" target="-riYvlgXH_zkho1tijx4-147">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="815" as="sourcePoint" />
+            <mxPoint x="860" y="995" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="685" />
+              <mxPoint x="820" y="1015" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
