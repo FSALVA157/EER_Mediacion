@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T14:09:32.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="IU_Z5lasdsvDyB0Zf97q" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T14:14:02.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PgQp3YFCrsI6jwdOY0j3" version="20.3.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="653" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -174,7 +174,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UfOyMy9NsmJ-QzIGQs5P-34" value="numero: INT  NOT NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="UfOyMy9NsmJ-QzIGQs5P-32" vertex="1">
+        <mxCell id="UfOyMy9NsmJ-QzIGQs5P-34" value="numero_dom: INT  NOT NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="UfOyMy9NsmJ-QzIGQs5P-32" vertex="1">
           <mxGeometry x="30" width="240" height="30" as="geometry">
             <mxRectangle width="240" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -853,7 +853,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UfOyMy9NsmJ-QzIGQs5P-196" value="numero: INT NOT NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="UfOyMy9NsmJ-QzIGQs5P-194" vertex="1">
+        <mxCell id="UfOyMy9NsmJ-QzIGQs5P-196" value="numero_dom: INT NOT NULLABLE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="UfOyMy9NsmJ-QzIGQs5P-194" vertex="1">
           <mxGeometry x="30" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
