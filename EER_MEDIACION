@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T11:17:17.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="LXR5b2-QoFT4OfGkJt3_" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T11:19:15.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="OOi13c00mXZ9wUKiVG0J" version="20.3.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="622" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -605,7 +605,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UfOyMy9NsmJ-QzIGQs5P-144" value="pdfs" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="480" width="240" height="150" as="geometry" />
+          <mxGeometry x="1480" y="240" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UfOyMy9NsmJ-QzIGQs5P-145" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="UfOyMy9NsmJ-QzIGQs5P-144" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -660,7 +660,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UfOyMy9NsmJ-QzIGQs5P-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endArrow=ERmany;endFill=0;" parent="1" source="UfOyMy9NsmJ-QzIGQs5P-69" target="UfOyMy9NsmJ-QzIGQs5P-151" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="65" />
+              <mxPoint x="1460" y="345" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UfOyMy9NsmJ-QzIGQs5P-158" value="tipos_audiencia" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="216" width="200" height="120" as="geometry" />
@@ -1040,7 +1045,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CNUm2jsY2qm9aAvjikv--1" value="usuarios-tramite" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="660" width="290" height="240" as="geometry" />
+          <mxGeometry x="1240" y="500" width="290" height="240" as="geometry" />
         </mxCell>
         <mxCell id="CNUm2jsY2qm9aAvjikv--2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="CNUm2jsY2qm9aAvjikv--1" vertex="1">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
@@ -1460,7 +1465,7 @@
               <mxPoint x="1180" y="72" />
               <mxPoint x="1180" y="80" />
               <mxPoint x="1210" y="80" />
-              <mxPoint x="1210" y="735" />
+              <mxPoint x="1210" y="575" />
             </Array>
           </mxGeometry>
         </mxCell>
